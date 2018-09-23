@@ -1,0 +1,3 @@
+[submodule "FirstLesson"]
+	path = FirstLesson
+	url = git@github.com:SalMarco/testJupyterSlide.git
