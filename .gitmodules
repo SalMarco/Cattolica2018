@@ -1,3 +1,6 @@
 [submodule "FirstLesson"]
 	path = FirstLesson
 	url = git@github.com:SalMarco/testJupyterSlide.git
+[submodule "SecondLesson"]
+	path = SecondLesson
+	url = git@github.com:SalMarco/SecondLesson.git
