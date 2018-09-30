@@ -40,7 +40,7 @@ https://stackoverflow.com/questions/44056164/jupyter-client-has-to-be-installed-
 In any case it is not mandatory for the course and we can address any problems later.
 
 
-## How to clone the repository with all the lessons
+## How to clone the repository for one/all the lessons
 
 All the files for all the lessons are in a repository: [Cattolica2018 Repo](https://github.com/SalMarco/Cattolica2018).
 
