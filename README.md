@@ -78,7 +78,11 @@ Enter inside the folder that has been created.
 
 In order to update in one time the `Cattolica2018` repository and all the others, from inside the folder, execute
 
-`git submodule update --recursive --remote`.  
+`git submodule update --recursive --remote`
+
+and then
+
+`git pull origin master`
 
 ### Clone the repo of a specific lesson
 
