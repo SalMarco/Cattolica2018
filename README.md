@@ -66,11 +66,15 @@ If you use only `cd` you will return to your home folder.
 
 With `cd ..` you will return **one** step back in the folders tree.
 
+Execute the commands as you need and put yourself in the folder insed you want to create the new folder fot the repo.
 
 ### Clone all the repos together
+
 In order to clone the `Cattolica2018` repository with all the others already inside execute
 
 `git clone --recursive git@github.com:SalMarco/Cattolica2018.git`
+
+Enter inside the folder that has been created. 
 
 In order to update in one time the `Cattolica2018` repository and all the others, from inside the folder, execute
 
@@ -78,9 +82,15 @@ In order to update in one time the `Cattolica2018` repository and all the others
 
 ### Clone the repo of a specific lesson
 
-If you want to clone the repository on **only** one lesson execute
+If you want to clone the repository on **only** one lesson 
+
+  - select the folder with the name of the lesson from [Cattolica2018 Repo](https://github.com/SalMarco/Cattolica2018)
+  - copy the url from the `clone` button
+Then execute 
 
 `git clone $urlOfTheSpecificLesson`
+
+Enter inside the folder that has been created.
 
 In order to update the repository, from inside de folder, execute
 
