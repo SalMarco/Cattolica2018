@@ -1,5 +1,9 @@
 # Empirical Research Python Lab
 
+## Contacts
+
+marco.saletta@gmail.com
+
 ## Prerequisites
 
 The course will be focused on an introduction to Python with focus to data analysis and machine learning.
