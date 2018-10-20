@@ -7,3 +7,6 @@
 [submodule "ThirdLesson"]
 	path = ThirdLesson
 	url = https://github.com/SalMarco/ThirdLesson.git
+[submodule "FourthLesson"]
+	path = FourthLesson
+	url = git@github.com:SalMarco/FourthLesson.git
